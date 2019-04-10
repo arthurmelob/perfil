@@ -1,5 +1,0 @@
-descrição
-	Hello there. My name is Arthur Batista, I'm from Brazil and I'm 24 years old. At the moment, I am learning to be a developer at VaiNaWeb. And it is so exciting because everyday I have new challenges, need to study new codes and improve my skills. It has been an awesome experience, knowing how VaiNaWeb works and the good they do for the communities.
-sociais
-	linkedin linkedin.com/in/arthur-batista-47b507184 
-	github https://github.com/arthurmelob
